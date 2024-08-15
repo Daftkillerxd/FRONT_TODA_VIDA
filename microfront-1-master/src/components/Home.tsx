@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <>
         <Navbar/>
-      <p>Esta es la página sobre. MICROFRONT 1</p>
+      <p>Esta es la página sobre. MICROFRONT 1 UWU UWU UWU UWU</p>
       <div>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
